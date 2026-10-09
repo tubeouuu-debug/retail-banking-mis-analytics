@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 885" width="100%" height="100%" style="background:#0b0f19; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Filters for Glow & Shadows -->
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+
+    <!-- Marker Arrowheads -->
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrowEmerald" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#10b981" />
+    </marker>
+    <marker id="arrowPurple" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#a855f7" />
+    </marker>
+  </defs>
+
+  <!-- Background subtle grid -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.6"/>
+  </pattern>
+  <rect width="1100" height="885" fill="url(#grid)" />
+
+  <!-- Outer Border Frame -->
+  <rect x="20" y="20" width="1060" height="845" rx="16" fill="none" stroke="#334155" stroke-width="1.5" />
+
+  <!-- ==================== HEADER ==================== -->
+  <g transform="translate(50, 45)">
+    <text x="0" y="24" fill="url(#headerGrad)" font-size="22" font-weight="800" letter-spacing="0.5">RETAIL BANKING MIS &amp; ANALYTICS PLATFORM</text>
+    <text x="0" y="46" fill="#94a3b8" font-size="13" font-weight="400">Enterprise High-Level Data Architecture • End-to-End Analytics &amp; Performance System</text>
+    <g transform="translate(850, 8)">
+      <rect x="0" y="0" width="150" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1" />
+      <circle cx="14" cy="14" r="5" fill="#10b981" />
+      <text x="26" y="18" fill="#e2e8f0" font-size="11" font-weight="600">PRODUCTION READY</text>
+    </g>
+  </g>
+
+  <!-- ==================== LAYER 1: DATA SOURCES ==================== -->
+  <g transform="translate(50, 115)">
+    <rect x="0" y="0" width="1000" height="135" rx="12" fill="#0f172a" stroke="#1e3a5f" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <rect x="15" y="-11" width="260" height="22" rx="6" fill="#0369a1" />
+    <text x="25" y="4" fill="#ffffff" font-size="11" font-weight="700" letter-spacing="0.5">LAYER 1 • CORE BANKING &amp; DATA SOURCES</text>
+
+    <!-- Source Card 1: Core T24 -->
+    <g transform="translate(25, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#38bdf8" font-size="15" font-weight="700">Core Banking (T24)</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Tài Khoản CASA &amp; Tiền Gửi FD</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Khách hàng cá nhân, số dư bình quân</text>
+      <rect x="225" y="14" width="55" height="18" rx="4" fill="#0369a1" fill-opacity="0.4"/>
+      <text x="235" y="27" fill="#38bdf8" font-size="10" font-weight="600">OLTP</text>
+    </g>
+
+    <!-- Source Card 2: Loan Origination -->
+    <g transform="translate(352, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#38bdf8" font-size="15" font-weight="700">Loan Origination (LOS)</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Quy Trình Tín Dụng &amp; Phê Duyệt</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Hồ sơ vay, TSĐB, giải ngân, TAT log</text>
+      <rect x="215" y="14" width="65" height="18" rx="4" fill="#0369a1" fill-opacity="0.4"/>
+      <text x="223" y="27" fill="#38bdf8" font-size="10" font-weight="600">WORKFLOW</text>
+    </g>
+
+    <!-- Source Card 3: Card & Switch -->
+    <g transform="translate(680, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#38bdf8" font-size="15" font-weight="700">Card &amp; Switch System</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Thẻ Tín Dụng &amp; Giao Dịch POS</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Thẻ phát hành, kích hoạt, hạn mức</text>
+      <rect x="220" y="14" width="60" height="18" rx="4" fill="#0369a1" fill-opacity="0.4"/>
+      <text x="228" y="27" fill="#38bdf8" font-size="10" font-weight="600">SWITCH</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 1 -> Layer 2 -->
+  <path d="M 222 250 L 222 295" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowBlue)"/>
+  <path d="M 550 250 L 550 295" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowBlue)"/>
+  <path d="M 877 250 L 877 295" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowBlue)"/>
+
+  <!-- ==================== LAYER 2: MIS & SQL SECURITY ==================== -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="1000" height="135" rx="12" fill="#0f172a" stroke="#065f46" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <rect x="15" y="-11" width="310" height="22" rx="6" fill="#059669" />
+    <text x="25" y="4" fill="#ffffff" font-size="11" font-weight="700" letter-spacing="0.5">LAYER 2 • MIS BUSINESS LOGIC &amp; SQL SECURITY</text>
+
+    <!-- ETL Card 1: Stored Proc KPI -->
+    <g transform="translate(25, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#34d399" font-size="14" font-weight="700">sp_Calculate_Sales_KPI</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Incentive Engine Theo Chính Sách Chuẩn</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Tính điểm lũy kế 5 SP, xếp hạng CBNV</text>
+      <rect x="220" y="14" width="60" height="18" rx="4" fill="#065f46" fill-opacity="0.4"/>
+      <text x="233" y="27" fill="#34d399" font-size="10" font-weight="600">T-SQL</text>
+    </g>
+
+    <!-- ETL Card 2: Dynamic RLS -->
+    <g transform="translate(352, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#34d399" font-size="14" font-weight="700">vw_Security_Branch_Hierarchy</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Dynamic Row-Level Security 5 Cấp</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Hội Sở → Vùng → Chi Nhánh → TBP → RM</text>
+      <rect x="225" y="14" width="55" height="18" rx="4" fill="#065f46" fill-opacity="0.4"/>
+      <text x="238" y="27" fill="#34d399" font-size="10" font-weight="600">RLS</text>
+    </g>
+
+    <!-- ETL Card 3: Masking Function -->
+    <g transform="translate(680, 25)">
+      <rect x="0" y="0" width="295" height="90" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#34d399" font-size="14" font-weight="700">fn_MaskCustomerName</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">Bảo Mật Dữ Liệu Cá Nhân PII</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">Tuân thủ NDA &amp; Luật Ngân hàng</text>
+      <rect x="210" y="14" width="70" height="18" rx="4" fill="#065f46" fill-opacity="0.4"/>
+      <text x="219" y="27" fill="#34d399" font-size="10" font-weight="600">SECURITY</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 2 -> Layer 3 -->
+  <path d="M 222 435 L 222 480" stroke="#10b981" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowEmerald)"/>
+  <path d="M 550 435 L 550 480" stroke="#10b981" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowEmerald)"/>
+  <path d="M 877 435 L 877 480" stroke="#10b981" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowEmerald)"/>
+
+  <!-- ==================== LAYER 3: DATA MODEL ==================== -->
+  <g transform="translate(50, 485)">
+    <rect x="0" y="0" width="1000" height="135" rx="12" fill="#0f172a" stroke="#581c87" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <rect x="15" y="-11" width="300" height="22" rx="6" fill="#7e22ce" />
+    <text x="25" y="4" fill="#ffffff" font-size="11" font-weight="700" letter-spacing="0.5">LAYER 3 • VERTIPAQ STAR SCHEMA DATA MODEL</text>
+
+    <!-- Model Card 1: Fact Tables -->
+    <g transform="translate(25, 25)">
+      <rect x="0" y="0" width="460" height="90" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#c084fc" font-size="15" font-weight="700">Fact Tables (Giao Dịch &amp; Chỉ Tiêu)</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">fact_kpi_actual_luy_ke • fact_kpi_targets_monthly</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">fact_credit_funnel_detail • fact_customer_portfolio_detail</text>
+      <rect x="360" y="14" width="85" height="18" rx="4" fill="#581c87" fill-opacity="0.4"/>
+      <text x="370" y="27" fill="#c084fc" font-size="10" font-weight="600">FACT 30K+ ROWS</text>
+    </g>
+
+    <!-- Model Card 2: Dimension Tables -->
+    <g transform="translate(515, 25)">
+      <rect x="0" y="0" width="460" height="90" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="18" y="28" fill="#c084fc" font-size="15" font-weight="700">Dimension Tables (Phân Cấp &amp; Danh Mục)</text>
+      <text x="18" y="48" fill="#e2e8f0" font-size="12" font-weight="500">dim_dvkd_branch (3 Vùng, 24 ĐVKD) • dim_employee_cbnv (298 RMs)</text>
+      <text x="18" y="68" fill="#94a3b8" font-size="11">dim_calendar (Lịch làm việc ngân hàng &amp; Ngày tính Run-rate)</text>
+      <rect x="385" y="14" width="60" height="18" rx="4" fill="#581c87" fill-opacity="0.4"/>
+      <text x="395" y="27" fill="#c084fc" font-size="10" font-weight="600">STAR 1:N</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 3 -> Layer 4 -->
+  <path d="M 255 620 L 255 665" stroke="#a855f7" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowPurple)"/>
+  <path d="M 745 620 L 745 665" stroke="#a855f7" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrowPurple)"/>
+
+  <!-- ==================== LAYER 4: POWER BI EXECUTIVE SUITE (8 DASHBOARDS GRID) ==================== -->
+  <g transform="translate(50, 670)">
+    <rect x="0" y="0" width="1000" height="175" rx="12" fill="#0f172a" stroke="#b45309" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <rect x="15" y="-11" width="340" height="22" rx="6" fill="#d97706" />
+    <text x="25" y="4" fill="#ffffff" font-size="11" font-weight="700" letter-spacing="0.5">LAYER 4 • POWER BI EXECUTIVE SUITE (8 DASHBOARDS)</text>
+
+    <!-- ===== ROW 1: 4 EXECUTIVE & OPERATIONAL DASHBOARDS ===== -->
+    <!-- Card 1 -->
+    <g transform="translate(18, 22)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+      <text x="12" y="24" fill="#fbbf24" font-size="13" font-weight="700">1. HĐKD Overview</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Tăng trưởng &amp; Cơ cấu SP</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Dư nợ, Huy động, APE, Thẻ</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(262, 22)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+      <text x="12" y="24" fill="#fbbf24" font-size="13" font-weight="700">2. Daily CBNV Pacing</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Nhịp độ &amp; Run-rate ngày</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Tiến độ theo ngày làm việc</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(506, 22)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+      <text x="12" y="24" fill="#fbbf24" font-size="13" font-weight="700">3. Phễu Tín Dụng</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Quy trình vay &amp; TAT Days</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Tỷ lệ chuyển đổi 5 tầng</text>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(750, 22)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+      <text x="12" y="24" fill="#fbbf24" font-size="13" font-weight="700">4. KPI &amp; Incentive</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Xếp hạng &amp; Tính thưởng</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Bảng điểm 5 SP theo Chính Sách Chuẩn</text>
+    </g>
+
+    <!-- ===== ROW 2: 4 CUSTOMER PORTFOLIO DASHBOARDS 2025 ===== -->
+    <!-- Card 5 -->
+    <g transform="translate(18, 96)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#d97706" stroke-width="1.1"/>
+      <text x="12" y="24" fill="#fde68a" font-size="13" font-weight="700">5. Danh Mục CASA</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Số dư tiền gửi không kỳ hạn</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Phân khúc Mass, Affluent, VIP</text>
+    </g>
+
+    <!-- Card 6 -->
+    <g transform="translate(262, 96)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#d97706" stroke-width="1.1"/>
+      <text x="12" y="24" fill="#fde68a" font-size="13" font-weight="700">6. Tiền Gửi FD</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Tiết kiệm có kỳ hạn</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Tái tục &amp; Cơ cấu kỳ hạn gửi</text>
+    </g>
+
+    <!-- Card 7 -->
+    <g transform="translate(506, 96)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#d97706" stroke-width="1.1"/>
+      <text x="12" y="24" fill="#fde68a" font-size="13" font-weight="700">7. Thẻ Tín Dụng (TTD)</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Quản trị danh mục thẻ</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Tỷ lệ kích hoạt &amp; Doanh số POS</text>
+    </g>
+
+    <!-- Card 8 -->
+    <g transform="translate(750, 96)">
+      <rect x="0" y="0" width="230" height="64" rx="8" fill="#1e293b" stroke="#d97706" stroke-width="1.1"/>
+      <text x="12" y="24" fill="#fde68a" font-size="13" font-weight="700">8. KH Reactive</text>
+      <text x="12" y="42" fill="#e2e8f0" font-size="11" font-weight="500">Chiến dịch kích hoạt lại</text>
+      <text x="12" y="55" fill="#94a3b8" font-size="9.5">Đánh thức khách hàng ngủ đông</text>
+    </g>
+  </g>
+</svg>

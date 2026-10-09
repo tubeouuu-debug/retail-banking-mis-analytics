@@ -1,0 +1,299 @@
+﻿CIF_sale,Ho_ten_sale,Chuc_danh_KPI,Nhom_chuc_danh,Ma_DVKD,Ma_Vung,CIF_TBP,CIF_CBQL,Email_sale,Trang_thai
+EMP_1001,Phạm Phương Vy,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_001,VUNG_1,,EMP_1001,emp_1001@bankcorp.vn,Đang làm việc
+EMP_1002,Phan Đức Thảo,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1002@bankcorp.vn,Đang làm việc
+EMP_1003,Đặng Minh An,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1003@bankcorp.vn,Đang làm việc
+EMP_1004,Lê Ngọc Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1004@bankcorp.vn,Đang làm việc
+EMP_1005,Huỳnh Thị Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1005@bankcorp.vn,Đang làm việc
+EMP_1006,Huỳnh Xuân Linh,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1006@bankcorp.vn,Đang làm việc
+EMP_1007,Võ Thị Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1007@bankcorp.vn,Đang làm việc
+EMP_1008,Bùi Xuân Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1008@bankcorp.vn,Đang làm việc
+EMP_1009,Nguyễn Phương Khoa,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1009@bankcorp.vn,Đang làm việc
+EMP_1010,Phạm Thị Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1010@bankcorp.vn,Đang làm việc
+EMP_1011,Lê Thu Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1011@bankcorp.vn,Đang làm việc
+EMP_1012,Đỗ Phương Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1012@bankcorp.vn,Đang làm việc
+EMP_1013,Võ Đức Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_001,VUNG_1,EMP_1003,EMP_1001,emp_1013@bankcorp.vn,Đang làm việc
+EMP_1014,Bùi Hoàng Khoa,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_001,VUNG_1,EMP_1002,EMP_1001,emp_1014@bankcorp.vn,Đang làm việc
+EMP_1015,Nguyễn Thu Quân,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_002,VUNG_1,,EMP_1015,emp_1015@bankcorp.vn,Đang làm việc
+EMP_1016,Hoàng Thị Huy,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_002,VUNG_1,EMP_1016,EMP_1015,emp_1016@bankcorp.vn,Đang làm việc
+EMP_1017,Đặng Thu Huy,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1017@bankcorp.vn,Đang làm việc
+EMP_1018,Bùi Thanh Quân,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1018@bankcorp.vn,Đang làm việc
+EMP_1019,Lê Minh Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1019@bankcorp.vn,Đang làm việc
+EMP_1020,Đỗ Xuân Sơn,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1020@bankcorp.vn,Đang làm việc
+EMP_1021,Huỳnh Đức Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_002,VUNG_1,EMP_1016,EMP_1015,emp_1021@bankcorp.vn,Đang làm việc
+EMP_1022,Nguyễn Thị Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1022@bankcorp.vn,Đang làm việc
+EMP_1023,Đặng Thị Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1023@bankcorp.vn,Đang làm việc
+EMP_1024,Võ Minh Vy,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_002,VUNG_1,EMP_1016,EMP_1015,emp_1024@bankcorp.vn,Đang làm việc
+EMP_1025,Bùi Thị Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_002,VUNG_1,EMP_1017,EMP_1015,emp_1025@bankcorp.vn,Đang làm việc
+EMP_1026,Hoàng Ngọc Hương,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_003,VUNG_1,,EMP_1026,emp_1026@bankcorp.vn,Đang làm việc
+EMP_1027,Vũ Văn Linh,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1027@bankcorp.vn,Đang làm việc
+EMP_1028,Võ Hải Tuấn,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_003,VUNG_1,EMP_1028,EMP_1026,emp_1028@bankcorp.vn,Đang làm việc
+EMP_1029,Trần Phương Mai,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1029@bankcorp.vn,Đang làm việc
+EMP_1030,Lê Thu Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1030@bankcorp.vn,Đang làm việc
+EMP_1031,Đặng Thu Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_003,VUNG_1,EMP_1028,EMP_1026,emp_1031@bankcorp.vn,Đang làm việc
+EMP_1032,Hoàng Đức Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1032@bankcorp.vn,Đang làm việc
+EMP_1033,Trần Thanh Cường,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1033@bankcorp.vn,Đang làm việc
+EMP_1034,Lê Phương Trang,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1034@bankcorp.vn,Đang làm việc
+EMP_1035,Hoàng Hoàng Sơn,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_003,VUNG_1,EMP_1027,EMP_1026,emp_1035@bankcorp.vn,Đang làm việc
+EMP_1036,Phan Phương Phúc,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_004,VUNG_1,,EMP_1036,emp_1036@bankcorp.vn,Đang làm việc
+EMP_1037,Vũ Hoàng Thảo,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1037@bankcorp.vn,Đang làm việc
+EMP_1038,Trần Đức Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_004,VUNG_1,EMP_1038,EMP_1036,emp_1038@bankcorp.vn,Đang làm việc
+EMP_1039,Trần Thu An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1039@bankcorp.vn,Đang làm việc
+EMP_1040,Đặng Đức An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1040@bankcorp.vn,Đang làm việc
+EMP_1041,Phạm Thị Bình,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1041@bankcorp.vn,Đang làm việc
+EMP_1042,Võ Đức Linh,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1042@bankcorp.vn,Đang làm việc
+EMP_1043,Võ Hải Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1038,EMP_1036,emp_1043@bankcorp.vn,Đang làm việc
+EMP_1044,Phan Đức Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1038,EMP_1036,emp_1044@bankcorp.vn,Đang làm việc
+EMP_1045,Huỳnh Ngọc Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1037,EMP_1036,emp_1045@bankcorp.vn,Đang làm việc
+EMP_1046,Bùi Phương Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1038,EMP_1036,emp_1046@bankcorp.vn,Đang làm việc
+EMP_1047,Trần Đức Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_004,VUNG_1,EMP_1038,EMP_1036,emp_1047@bankcorp.vn,Đang làm việc
+EMP_1048,Phan Hải Linh,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_005,VUNG_1,,EMP_1048,emp_1048@bankcorp.vn,Đang làm việc
+EMP_1049,Vũ Đức Cường,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1049@bankcorp.vn,Đang làm việc
+EMP_1050,Vũ Hoàng Dũng,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_005,VUNG_1,EMP_1050,EMP_1048,emp_1050@bankcorp.vn,Đang làm việc
+EMP_1051,Nguyễn Phương Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1051@bankcorp.vn,Đang làm việc
+EMP_1052,Phạm Hải Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1052@bankcorp.vn,Đang làm việc
+EMP_1053,Phan Văn Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_005,VUNG_1,EMP_1050,EMP_1048,emp_1053@bankcorp.vn,Đang làm việc
+EMP_1054,Hoàng Thanh Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_005,VUNG_1,EMP_1050,EMP_1048,emp_1054@bankcorp.vn,Đang làm việc
+EMP_1055,Lê Đức Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1055@bankcorp.vn,Đang làm việc
+EMP_1056,Đặng Hoàng Bình,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1056@bankcorp.vn,Đang làm việc
+EMP_1057,Nguyễn Xuân Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1057@bankcorp.vn,Đang làm việc
+EMP_1058,Nguyễn Hoàng Cường,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_005,VUNG_1,EMP_1049,EMP_1048,emp_1058@bankcorp.vn,Đang làm việc
+EMP_1059,Trần Phương Khoa,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_006,VUNG_1,,EMP_1059,emp_1059@bankcorp.vn,Đang làm việc
+EMP_1060,Phan Thị Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1060@bankcorp.vn,Đang làm việc
+EMP_1061,Đặng Xuân Bình,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1061@bankcorp.vn,Đang làm việc
+EMP_1062,Đặng Thị Sơn,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1062@bankcorp.vn,Đang làm việc
+EMP_1063,Hoàng Đức Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1063@bankcorp.vn,Đang làm việc
+EMP_1064,Lê Phương Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1064@bankcorp.vn,Đang làm việc
+EMP_1065,Nguyễn Thanh Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1065@bankcorp.vn,Đang làm việc
+EMP_1066,Võ Minh Giang,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1066@bankcorp.vn,Đang làm việc
+EMP_1067,Phạm Thu Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1067@bankcorp.vn,Đang làm việc
+EMP_1068,Đặng Phương Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1068@bankcorp.vn,Đang làm việc
+EMP_1069,Bùi Thị Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1069@bankcorp.vn,Đang làm việc
+EMP_1070,Đỗ Hoàng Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1070@bankcorp.vn,Đang làm việc
+EMP_1071,Đỗ Thu Huy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_006,VUNG_1,EMP_1061,EMP_1059,emp_1071@bankcorp.vn,Đang làm việc
+EMP_1072,Võ Thanh Linh,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_006,VUNG_1,EMP_1060,EMP_1059,emp_1072@bankcorp.vn,Đang làm việc
+EMP_1073,Bùi Ngọc Linh,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_007,VUNG_1,,EMP_1073,emp_1073@bankcorp.vn,Đang làm việc
+EMP_1074,Nguyễn Văn Nam,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_007,VUNG_1,EMP_1074,EMP_1073,emp_1074@bankcorp.vn,Đang làm việc
+EMP_1075,Lê Phương Linh,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_007,VUNG_1,EMP_1075,EMP_1073,emp_1075@bankcorp.vn,Đang làm việc
+EMP_1076,Lê Thanh Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_007,VUNG_1,EMP_1074,EMP_1073,emp_1076@bankcorp.vn,Đang làm việc
+EMP_1077,Trần Thị Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_007,VUNG_1,EMP_1075,EMP_1073,emp_1077@bankcorp.vn,Đang làm việc
+EMP_1078,Đặng Hoàng Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_007,VUNG_1,EMP_1074,EMP_1073,emp_1078@bankcorp.vn,Đang làm việc
+EMP_1079,Hoàng Thu Bình,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_007,VUNG_1,EMP_1074,EMP_1073,emp_1079@bankcorp.vn,Đang làm việc
+EMP_1080,Bùi Đức Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_007,VUNG_1,EMP_1075,EMP_1073,emp_1080@bankcorp.vn,Đang làm việc
+EMP_1081,Đặng Hải Khoa,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_007,VUNG_1,EMP_1074,EMP_1073,emp_1081@bankcorp.vn,Đang làm việc
+EMP_1082,Phan Văn Hương,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_007,VUNG_1,EMP_1075,EMP_1073,emp_1082@bankcorp.vn,Đang làm việc
+EMP_1083,Bùi Đức Linh,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_008,VUNG_1,,EMP_1083,emp_1083@bankcorp.vn,Đang làm việc
+EMP_1084,Lê Thị Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_008,VUNG_1,EMP_1084,EMP_1083,emp_1084@bankcorp.vn,Đang làm việc
+EMP_1085,Nguyễn Thanh Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1085@bankcorp.vn,Đang làm việc
+EMP_1086,Phạm Thanh Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1084,EMP_1083,emp_1086@bankcorp.vn,Đang làm việc
+EMP_1087,Phạm Văn Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1087@bankcorp.vn,Đang làm việc
+EMP_1088,Trần Minh Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1088@bankcorp.vn,Đang làm việc
+EMP_1089,Bùi Hoàng Nam,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_008,VUNG_1,EMP_1084,EMP_1083,emp_1089@bankcorp.vn,Đang làm việc
+EMP_1090,Hoàng Hải Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1090@bankcorp.vn,Đang làm việc
+EMP_1091,Huỳnh Thu Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1084,EMP_1083,emp_1091@bankcorp.vn,Đang làm việc
+EMP_1092,Phan Xuân Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1092@bankcorp.vn,Đang làm việc
+EMP_1093,Nguyễn Hoàng Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_008,VUNG_1,EMP_1084,EMP_1083,emp_1093@bankcorp.vn,Đang làm việc
+EMP_1094,Huỳnh Ngọc Cường,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1094@bankcorp.vn,Đang làm việc
+EMP_1095,Đặng Thu Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_008,VUNG_1,EMP_1085,EMP_1083,emp_1095@bankcorp.vn,Đang làm việc
+EMP_1096,Hoàng Phương Sơn,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_009,VUNG_2,,EMP_1096,emp_1096@bankcorp.vn,Đang làm việc
+EMP_1097,Huỳnh Ngọc Mai,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1097@bankcorp.vn,Đang làm việc
+EMP_1098,Võ Hải Huy,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_009,VUNG_2,EMP_1098,EMP_1096,emp_1098@bankcorp.vn,Đang làm việc
+EMP_1099,Phan Phương Quân,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1099@bankcorp.vn,Đang làm việc
+EMP_1100,Đặng Xuân Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1100@bankcorp.vn,Đang làm việc
+EMP_1101,Hoàng Minh Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1098,EMP_1096,emp_1101@bankcorp.vn,Đang làm việc
+EMP_1102,Vũ Thanh Thảo,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_009,VUNG_2,EMP_1098,EMP_1096,emp_1102@bankcorp.vn,Đang làm việc
+EMP_1103,Đỗ Hải Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1098,EMP_1096,emp_1103@bankcorp.vn,Đang làm việc
+EMP_1104,Trần Đức Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1104@bankcorp.vn,Đang làm việc
+EMP_1105,Lê Văn Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1098,EMP_1096,emp_1105@bankcorp.vn,Đang làm việc
+EMP_1106,Đặng Thị Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1106@bankcorp.vn,Đang làm việc
+EMP_1107,Đỗ Ngọc Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1107@bankcorp.vn,Đang làm việc
+EMP_1108,Bùi Văn Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1108@bankcorp.vn,Đang làm việc
+EMP_1109,Lê Hoàng Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_009,VUNG_2,EMP_1097,EMP_1096,emp_1109@bankcorp.vn,Đang làm việc
+EMP_1110,Vũ Hải Thảo,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_010,VUNG_2,,EMP_1110,emp_1110@bankcorp.vn,Đang làm việc
+EMP_1111,Bùi Hoàng Vy,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1111@bankcorp.vn,Đang làm việc
+EMP_1112,Đặng Thu Thảo,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_010,VUNG_2,EMP_1112,EMP_1110,emp_1112@bankcorp.vn,Đang làm việc
+EMP_1113,Đặng Hoàng Sơn,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_010,VUNG_2,EMP_1112,EMP_1110,emp_1113@bankcorp.vn,Đang làm việc
+EMP_1114,Lê Thanh Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1114@bankcorp.vn,Đang làm việc
+EMP_1115,Bùi Minh Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1115@bankcorp.vn,Đang làm việc
+EMP_1116,Hoàng Thanh Cường,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1116@bankcorp.vn,Đang làm việc
+EMP_1117,Hoàng Thu Nam,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1117@bankcorp.vn,Đang làm việc
+EMP_1118,Lê Hải Khoa,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_010,VUNG_2,EMP_1111,EMP_1110,emp_1118@bankcorp.vn,Đang làm việc
+EMP_1119,Đỗ Đức Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_010,VUNG_2,EMP_1112,EMP_1110,emp_1119@bankcorp.vn,Đang làm việc
+EMP_1120,Vũ Ngọc Bình,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_011,VUNG_2,,EMP_1120,emp_1120@bankcorp.vn,Đang làm việc
+EMP_1121,Phạm Ngọc Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_011,VUNG_2,EMP_1121,EMP_1120,emp_1121@bankcorp.vn,Đang làm việc
+EMP_1122,Đặng Văn Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1122@bankcorp.vn,Đang làm việc
+EMP_1123,Vũ Văn Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1123@bankcorp.vn,Đang làm việc
+EMP_1124,Phan Hoàng Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_011,VUNG_2,EMP_1121,EMP_1120,emp_1124@bankcorp.vn,Đang làm việc
+EMP_1125,Vũ Đức Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1121,EMP_1120,emp_1125@bankcorp.vn,Đang làm việc
+EMP_1126,Phan Thu Quân,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1126@bankcorp.vn,Đang làm việc
+EMP_1127,Lê Xuân Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1127@bankcorp.vn,Đang làm việc
+EMP_1128,Đặng Xuân An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1128@bankcorp.vn,Đang làm việc
+EMP_1129,Lê Thanh Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1129@bankcorp.vn,Đang làm việc
+EMP_1130,Huỳnh Đức Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1130@bankcorp.vn,Đang làm việc
+EMP_1131,Hoàng Ngọc Linh,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1131@bankcorp.vn,Đang làm việc
+EMP_1132,Nguyễn Hoàng Bình,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_011,VUNG_2,EMP_1122,EMP_1120,emp_1132@bankcorp.vn,Đang làm việc
+EMP_1133,Phạm Phương Cường,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_011,VUNG_2,EMP_1121,EMP_1120,emp_1133@bankcorp.vn,Đang làm việc
+EMP_1134,Phạm Đức An,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_012,VUNG_2,,EMP_1134,emp_1134@bankcorp.vn,Đang làm việc
+EMP_1135,Đặng Hải Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_012,VUNG_2,EMP_1135,EMP_1134,emp_1135@bankcorp.vn,Đang làm việc
+EMP_1136,Lê Thanh Dũng,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_012,VUNG_2,EMP_1136,EMP_1134,emp_1136@bankcorp.vn,Đang làm việc
+EMP_1137,Đặng Đức Thảo,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_012,VUNG_2,EMP_1136,EMP_1134,emp_1137@bankcorp.vn,Đang làm việc
+EMP_1138,Lê Xuân Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_012,VUNG_2,EMP_1135,EMP_1134,emp_1138@bankcorp.vn,Đang làm việc
+EMP_1139,Hoàng Thị An,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_012,VUNG_2,EMP_1136,EMP_1134,emp_1139@bankcorp.vn,Đang làm việc
+EMP_1140,Phan Đức Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_012,VUNG_2,EMP_1135,EMP_1134,emp_1140@bankcorp.vn,Đang làm việc
+EMP_1141,Trần Minh Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_012,VUNG_2,EMP_1135,EMP_1134,emp_1141@bankcorp.vn,Đang làm việc
+EMP_1142,Huỳnh Hoàng Sơn,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_012,VUNG_2,EMP_1135,EMP_1134,emp_1142@bankcorp.vn,Đang làm việc
+EMP_1143,Võ Phương Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_012,VUNG_2,EMP_1136,EMP_1134,emp_1143@bankcorp.vn,Đang làm việc
+EMP_1144,Trần Ngọc Phúc,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_013,VUNG_2,,EMP_1144,emp_1144@bankcorp.vn,Đang làm việc
+EMP_1145,Bùi Thanh Giang,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1145@bankcorp.vn,Đang làm việc
+EMP_1146,Phan Hải Tuấn,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1146@bankcorp.vn,Đang làm việc
+EMP_1147,Bùi Minh Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1147@bankcorp.vn,Đang làm việc
+EMP_1148,Phan Xuân Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1148@bankcorp.vn,Đang làm việc
+EMP_1149,Trần Minh Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1149@bankcorp.vn,Đang làm việc
+EMP_1150,Đặng Xuân Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1150@bankcorp.vn,Đang làm việc
+EMP_1151,Huỳnh Hải Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1151@bankcorp.vn,Đang làm việc
+EMP_1152,Huỳnh Minh Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1152@bankcorp.vn,Đang làm việc
+EMP_1153,Trần Đức Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1153@bankcorp.vn,Đang làm việc
+EMP_1154,Đỗ Thanh Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1154@bankcorp.vn,Đang làm việc
+EMP_1155,Trần Minh Khoa,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1145,EMP_1144,emp_1155@bankcorp.vn,Đang làm việc
+EMP_1156,Hoàng Phương Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_013,VUNG_2,EMP_1146,EMP_1144,emp_1156@bankcorp.vn,Đang làm việc
+EMP_1157,Đỗ Hoàng Nam,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_014,VUNG_2,,EMP_1157,emp_1157@bankcorp.vn,Đang làm việc
+EMP_1158,Huỳnh Thanh Linh,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1158@bankcorp.vn,Đang làm việc
+EMP_1159,Hoàng Minh Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1159@bankcorp.vn,Đang làm việc
+EMP_1160,Trần Đức Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1160@bankcorp.vn,Đang làm việc
+EMP_1161,Phạm Đức Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1161@bankcorp.vn,Đang làm việc
+EMP_1162,Trần Đức Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1162@bankcorp.vn,Đang làm việc
+EMP_1163,Hoàng Văn Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1163@bankcorp.vn,Đang làm việc
+EMP_1164,Nguyễn Hoàng Mai,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1164@bankcorp.vn,Đang làm việc
+EMP_1165,Bùi Thanh Dũng,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1165@bankcorp.vn,Đang làm việc
+EMP_1166,Vũ Thanh Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1158,EMP_1157,emp_1166@bankcorp.vn,Đang làm việc
+EMP_1167,Hoàng Thanh Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1167@bankcorp.vn,Đang làm việc
+EMP_1168,Vũ Thị Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1168@bankcorp.vn,Đang làm việc
+EMP_1169,Trần Đức Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_014,VUNG_2,EMP_1159,EMP_1157,emp_1169@bankcorp.vn,Đang làm việc
+EMP_1170,Đặng Xuân Khoa,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_015,VUNG_2,,EMP_1170,emp_1170@bankcorp.vn,Đang làm việc
+EMP_1171,Võ Ngọc Thảo,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1171@bankcorp.vn,Đang làm việc
+EMP_1172,Vũ Minh Sơn,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1172@bankcorp.vn,Đang làm việc
+EMP_1173,Hoàng Xuân Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1173@bankcorp.vn,Đang làm việc
+EMP_1174,Phạm Phương Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1174@bankcorp.vn,Đang làm việc
+EMP_1175,Lê Đức Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1175@bankcorp.vn,Đang làm việc
+EMP_1176,Nguyễn Ngọc Thảo,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1176@bankcorp.vn,Đang làm việc
+EMP_1177,Hoàng Văn Khoa,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1177@bankcorp.vn,Đang làm việc
+EMP_1178,Đỗ Thanh Cường,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1178@bankcorp.vn,Đang làm việc
+EMP_1179,Bùi Xuân Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1179@bankcorp.vn,Đang làm việc
+EMP_1180,Bùi Hải Linh,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1180@bankcorp.vn,Đang làm việc
+EMP_1181,Nguyễn Hải Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1181@bankcorp.vn,Đang làm việc
+EMP_1182,Vũ Thị Thảo,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_015,VUNG_2,EMP_1172,EMP_1170,emp_1182@bankcorp.vn,Đang làm việc
+EMP_1183,Hoàng Hoàng Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_015,VUNG_2,EMP_1171,EMP_1170,emp_1183@bankcorp.vn,Đang làm việc
+EMP_1184,Nguyễn Ngọc Nam,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_016,VUNG_2,,EMP_1184,emp_1184@bankcorp.vn,Đang làm việc
+EMP_1185,Đặng Minh An,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1185@bankcorp.vn,Đang làm việc
+EMP_1186,Trần Đức An,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_016,VUNG_2,EMP_1186,EMP_1184,emp_1186@bankcorp.vn,Đang làm việc
+EMP_1187,Bùi Minh Bình,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1187@bankcorp.vn,Đang làm việc
+EMP_1188,Vũ Hoàng Thảo,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1188@bankcorp.vn,Đang làm việc
+EMP_1189,Đặng Ngọc Trang,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_016,VUNG_2,EMP_1186,EMP_1184,emp_1189@bankcorp.vn,Đang làm việc
+EMP_1190,Huỳnh Ngọc Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1190@bankcorp.vn,Đang làm việc
+EMP_1191,Lê Thu Sơn,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_016,VUNG_2,EMP_1186,EMP_1184,emp_1191@bankcorp.vn,Đang làm việc
+EMP_1192,Bùi Ngọc Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1192@bankcorp.vn,Đang làm việc
+EMP_1193,Huỳnh Minh Nam,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1186,EMP_1184,emp_1193@bankcorp.vn,Đang làm việc
+EMP_1194,Võ Văn Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1194@bankcorp.vn,Đang làm việc
+EMP_1195,Phạm Hoàng Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1186,EMP_1184,emp_1195@bankcorp.vn,Đang làm việc
+EMP_1196,Bùi Thanh Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1196@bankcorp.vn,Đang làm việc
+EMP_1197,Hoàng Thanh Trang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_016,VUNG_2,EMP_1185,EMP_1184,emp_1197@bankcorp.vn,Đang làm việc
+EMP_1198,Hoàng Hoàng An,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_017,VUNG_3,,EMP_1198,emp_1198@bankcorp.vn,Đang làm việc
+EMP_1199,Võ Ngọc Cường,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_017,VUNG_3,EMP_1199,EMP_1198,emp_1199@bankcorp.vn,Đang làm việc
+EMP_1200,Phạm Thị Thảo,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1200@bankcorp.vn,Đang làm việc
+EMP_1201,Trần Phương Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1201@bankcorp.vn,Đang làm việc
+EMP_1202,Võ Minh Sơn,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1202@bankcorp.vn,Đang làm việc
+EMP_1203,Phạm Thanh Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_017,VUNG_3,EMP_1199,EMP_1198,emp_1203@bankcorp.vn,Đang làm việc
+EMP_1204,Đặng Hoàng Giang,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1204@bankcorp.vn,Đang làm việc
+EMP_1205,Phan Thu Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_017,VUNG_3,EMP_1199,EMP_1198,emp_1205@bankcorp.vn,Đang làm việc
+EMP_1206,Hoàng Minh Trang,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1206@bankcorp.vn,Đang làm việc
+EMP_1207,Võ Thanh Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_017,VUNG_3,EMP_1200,EMP_1198,emp_1207@bankcorp.vn,Đang làm việc
+EMP_1208,Vũ Thu Huy,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_017,VUNG_3,EMP_1199,EMP_1198,emp_1208@bankcorp.vn,Đang làm việc
+EMP_1209,Phan Đức Sơn,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_018,VUNG_3,,EMP_1209,emp_1209@bankcorp.vn,Đang làm việc
+EMP_1210,Nguyễn Thu Trang,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1210@bankcorp.vn,Đang làm việc
+EMP_1211,Đỗ Ngọc Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1211@bankcorp.vn,Đang làm việc
+EMP_1212,Bùi Phương Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1212@bankcorp.vn,Đang làm việc
+EMP_1213,Lê Hoàng Nam,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1213@bankcorp.vn,Đang làm việc
+EMP_1214,Trần Hoàng Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1214@bankcorp.vn,Đang làm việc
+EMP_1215,Phan Phương Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1215@bankcorp.vn,Đang làm việc
+EMP_1216,Huỳnh Xuân Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1216@bankcorp.vn,Đang làm việc
+EMP_1217,Bùi Hoàng Quân,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1217@bankcorp.vn,Đang làm việc
+EMP_1218,Võ Văn Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1218@bankcorp.vn,Đang làm việc
+EMP_1219,Phạm Thị Sơn,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1219@bankcorp.vn,Đang làm việc
+EMP_1220,Vũ Hải Mai,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1220@bankcorp.vn,Đang làm việc
+EMP_1221,Huỳnh Văn Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1211,EMP_1209,emp_1221@bankcorp.vn,Đang làm việc
+EMP_1222,Lê Đức Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_018,VUNG_3,EMP_1210,EMP_1209,emp_1222@bankcorp.vn,Đang làm việc
+EMP_1223,Lê Thị Quân,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_019,VUNG_3,,EMP_1223,emp_1223@bankcorp.vn,Đang làm việc
+EMP_1224,Đặng Phương Khoa,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_019,VUNG_3,EMP_1224,EMP_1223,emp_1224@bankcorp.vn,Đang làm việc
+EMP_1225,Vũ Xuân Giang,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1225@bankcorp.vn,Đang làm việc
+EMP_1226,Phạm Thanh Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1224,EMP_1223,emp_1226@bankcorp.vn,Đang làm việc
+EMP_1227,Vũ Minh Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1227@bankcorp.vn,Đang làm việc
+EMP_1228,Huỳnh Xuân Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1228@bankcorp.vn,Đang làm việc
+EMP_1229,Đỗ Minh Thảo,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_019,VUNG_3,EMP_1224,EMP_1223,emp_1229@bankcorp.vn,Đang làm việc
+EMP_1230,Phan Thanh Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1230@bankcorp.vn,Đang làm việc
+EMP_1231,Đặng Minh Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1231@bankcorp.vn,Đang làm việc
+EMP_1232,Hoàng Văn Bình,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_019,VUNG_3,EMP_1225,EMP_1223,emp_1232@bankcorp.vn,Đang làm việc
+EMP_1233,Hoàng Đức Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_019,VUNG_3,EMP_1224,EMP_1223,emp_1233@bankcorp.vn,Đang làm việc
+EMP_1234,Hoàng Phương Giang,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_020,VUNG_3,,EMP_1234,emp_1234@bankcorp.vn,Đang làm việc
+EMP_1235,Bùi Thị Bình,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_020,VUNG_3,EMP_1235,EMP_1234,emp_1235@bankcorp.vn,Đang làm việc
+EMP_1236,Hoàng Thanh Bình,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1236@bankcorp.vn,Đang làm việc
+EMP_1237,Đặng Thu Giang,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1237@bankcorp.vn,Đang làm việc
+EMP_1238,Huỳnh Ngọc Hương,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1238@bankcorp.vn,Đang làm việc
+EMP_1239,Võ Hoàng Linh,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1239@bankcorp.vn,Đang làm việc
+EMP_1240,Vũ Minh Nam,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1240@bankcorp.vn,Đang làm việc
+EMP_1241,Trần Hải Khoa,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1241@bankcorp.vn,Đang làm việc
+EMP_1242,Võ Thu Cường,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_020,VUNG_3,EMP_1235,EMP_1234,emp_1242@bankcorp.vn,Đang làm việc
+EMP_1243,Hoàng Hoàng Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1243@bankcorp.vn,Đang làm việc
+EMP_1244,Đặng Ngọc Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1235,EMP_1234,emp_1244@bankcorp.vn,Đang làm việc
+EMP_1245,Vũ Văn Vy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1235,EMP_1234,emp_1245@bankcorp.vn,Đang làm việc
+EMP_1246,Bùi Thị Thảo,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_020,VUNG_3,EMP_1236,EMP_1234,emp_1246@bankcorp.vn,Đang làm việc
+EMP_1247,Bùi Ngọc Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_020,VUNG_3,EMP_1235,EMP_1234,emp_1247@bankcorp.vn,Đang làm việc
+EMP_1248,Vũ Thị Dũng,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_021,VUNG_3,,EMP_1248,emp_1248@bankcorp.vn,Đang làm việc
+EMP_1249,Phạm Hoàng Giang,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_021,VUNG_3,EMP_1249,EMP_1248,emp_1249@bankcorp.vn,Đang làm việc
+EMP_1250,Phan Thanh Phúc,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1250@bankcorp.vn,Đang làm việc
+EMP_1251,Bùi Hoàng Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1249,EMP_1248,emp_1251@bankcorp.vn,Đang làm việc
+EMP_1252,Phan Phương Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1252@bankcorp.vn,Đang làm việc
+EMP_1253,Hoàng Văn Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1253@bankcorp.vn,Đang làm việc
+EMP_1254,Phạm Thu Dũng,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1254@bankcorp.vn,Đang làm việc
+EMP_1255,Võ Phương Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1255@bankcorp.vn,Đang làm việc
+EMP_1256,Phạm Thị Thảo,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1249,EMP_1248,emp_1256@bankcorp.vn,Đang làm việc
+EMP_1257,Bùi Phương An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1250,EMP_1248,emp_1257@bankcorp.vn,Đang làm việc
+EMP_1258,Phạm Hải Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1249,EMP_1248,emp_1258@bankcorp.vn,Đang làm việc
+EMP_1259,Đặng Đức Khoa,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_021,VUNG_3,EMP_1249,EMP_1248,emp_1259@bankcorp.vn,Đang làm việc
+EMP_1260,Nguyễn Minh Giang,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_022,VUNG_3,,EMP_1260,emp_1260@bankcorp.vn,Đang làm việc
+EMP_1261,Lê Hoàng Linh,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1261@bankcorp.vn,Đang làm việc
+EMP_1262,Lê Thị An,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_022,VUNG_3,EMP_1262,EMP_1260,emp_1262@bankcorp.vn,Đang làm việc
+EMP_1263,Lê Văn Phúc,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1263@bankcorp.vn,Đang làm việc
+EMP_1264,Đặng Thu An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1264@bankcorp.vn,Đang làm việc
+EMP_1265,Lê Ngọc Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1265@bankcorp.vn,Đang làm việc
+EMP_1266,Vũ Thanh Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1266@bankcorp.vn,Đang làm việc
+EMP_1267,Vũ Hoàng Khoa,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1267@bankcorp.vn,Đang làm việc
+EMP_1268,Đỗ Phương Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1268@bankcorp.vn,Đang làm việc
+EMP_1269,Nguyễn Thanh Quân,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1269@bankcorp.vn,Đang làm việc
+EMP_1270,Vũ Thanh Cường,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_022,VUNG_3,EMP_1262,EMP_1260,emp_1270@bankcorp.vn,Đang làm việc
+EMP_1271,Đặng Hải Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1262,EMP_1260,emp_1271@bankcorp.vn,Đang làm việc
+EMP_1272,Phan Xuân Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_022,VUNG_3,EMP_1262,EMP_1260,emp_1272@bankcorp.vn,Đang làm việc
+EMP_1273,Trần Thị Vy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_022,VUNG_3,EMP_1261,EMP_1260,emp_1273@bankcorp.vn,Đang làm việc
+EMP_1274,Vũ Đức Sơn,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_023,VUNG_3,,EMP_1274,emp_1274@bankcorp.vn,Đang làm việc
+EMP_1275,Huỳnh Thanh Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_023,VUNG_3,EMP_1275,EMP_1274,emp_1275@bankcorp.vn,Đang làm việc
+EMP_1276,Phan Thị Nam,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1276@bankcorp.vn,Đang làm việc
+EMP_1277,Phan Thu Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1275,EMP_1274,emp_1277@bankcorp.vn,Đang làm việc
+EMP_1278,Bùi Thanh Cường,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1275,EMP_1274,emp_1278@bankcorp.vn,Đang làm việc
+EMP_1279,Trần Ngọc Dũng,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1279@bankcorp.vn,Đang làm việc
+EMP_1280,Lê Hoàng Bình,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1280@bankcorp.vn,Đang làm việc
+EMP_1281,Bùi Thị Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1281@bankcorp.vn,Đang làm việc
+EMP_1282,Đỗ Văn Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1282@bankcorp.vn,Đang làm việc
+EMP_1283,Trần Xuân Tuấn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1283@bankcorp.vn,Đang làm việc
+EMP_1284,Phạm Thị Phúc,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1284@bankcorp.vn,Đang làm việc
+EMP_1285,Trần Minh Khoa,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_023,VUNG_3,EMP_1275,EMP_1274,emp_1285@bankcorp.vn,Đang làm việc
+EMP_1286,Đặng Phương Linh,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_023,VUNG_3,EMP_1276,EMP_1274,emp_1286@bankcorp.vn,Đang làm việc
+EMP_1287,Huỳnh Thu An,Giám Đốc Chi Nhánh / Đơn Vị (CBQL),CBQL,DVKD_024,VUNG_3,,EMP_1287,emp_1287@bankcorp.vn,Đang làm việc
+EMP_1288,Lê Hải Quân,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_024,VUNG_3,EMP_1288,EMP_1287,emp_1288@bankcorp.vn,Đang làm việc
+EMP_1289,Trần Hải An,Trưởng Bộ Phận Khách Hàng Cá Nhân (TBP),TBP,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1289@bankcorp.vn,Đang làm việc
+EMP_1290,Trần Hoàng Huy,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1290@bankcorp.vn,Đang làm việc
+EMP_1291,Huỳnh Hải Phúc,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1291@bankcorp.vn,Đang làm việc
+EMP_1292,Đặng Xuân Cường,Giao dịch viên & Phát triển KH (PBO/CSO),CBNV,DVKD_024,VUNG_3,EMP_1288,EMP_1287,emp_1292@bankcorp.vn,Đang làm việc
+EMP_1293,Lê Xuân Bình,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1293@bankcorp.vn,Đang làm việc
+EMP_1294,Vũ Phương Sơn,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1294@bankcorp.vn,Đang làm việc
+EMP_1295,Phan Minh Huy,Chuyên viên Khách hàng Ưu tiên (Premier RM),CBNV,DVKD_024,VUNG_3,EMP_1288,EMP_1287,emp_1295@bankcorp.vn,Đang làm việc
+EMP_1296,Huỳnh Ngọc Dũng,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1296@bankcorp.vn,Đang làm việc
+EMP_1297,Võ Phương Mai,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1289,EMP_1287,emp_1297@bankcorp.vn,Đang làm việc
+EMP_1298,Đặng Văn An,Quan hệ Khách hàng Cá nhân (RM),CBNV,DVKD_024,VUNG_3,EMP_1288,EMP_1287,emp_1298@bankcorp.vn,Đang làm việc
